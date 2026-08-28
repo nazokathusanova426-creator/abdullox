@@ -1,0 +1,36 @@
+.sun{
+width: 400px;
+background-color: black;
+padding: 30px;
+border: 6px solid red;
+margin: auto;
+margin-top: 50px;
+}
+
+
+h1 {
+    background-color: rgb(29, 2, 2);
+    color: white;
+    text-align: center;
+    width: 300px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.text {
+  background-color: aquamarine;
+      padding: 20px;
+      margin-bottom: 10px;
+}
+
+body{
+    background-color: cadetblue;
+}
+.night{
+    border: 2px solid blue;
+}
+
+p {
+   font-weight: 900; 
+}
